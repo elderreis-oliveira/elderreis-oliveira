@@ -23,6 +23,7 @@ function convertValues() {
     }
 
 
+    
 
     if (currencySelect.value == "euro") {
         currencyValueConverted.innerHTML = new Intl.NumberFormat("de-DE", {
